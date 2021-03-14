@@ -43,5 +43,7 @@
 #db-[99:101]-node.example.com
 
 [fhw]
-192.168.33.11 #node-one
-192.168.33.12 #node-two
+192.168.33.11
+192.168.33.12
+node-one
+node-two
